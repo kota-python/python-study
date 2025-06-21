@@ -21,7 +21,8 @@ CS50Pの学習の一環として作成しました。
 Python 3.13.5 がインストールされた環境で、次のコマンドを実行してください：
 
 ```bash
-python janken.py```
+python janken.py
+```
 
 ---
 ## 実行例
