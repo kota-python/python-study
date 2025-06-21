@@ -35,4 +35,4 @@ python web_scraping_yahoo.py
 ## 使用環境
 
 - python3.13.5
-- 
+- 開発環境:Visual Studio Code（Windows）
