@@ -34,10 +34,17 @@ python google_news.py
 
 ## 実行例
 
+```
+検索: ○○
+タイトル: ○○
+URL: https://example.com/article123
+サイト名: ○○
+--------------------------------------------------
+```
 
 ---
 
 ## 使用環境
 
-- Python 3.13.5
+- python 3.13.5
 - 開発環境: Visual Studio Code（Windows
