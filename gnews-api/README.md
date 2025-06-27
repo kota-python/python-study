@@ -33,7 +33,7 @@ python google_news.py
 タイトル: ChatGPT最新バージョンが公開
 URL: https://example.com/article1
 サイト名: NHK
---------------------------------------------------
+
 
 ---
 
