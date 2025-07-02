@@ -22,6 +22,8 @@ Pythonの基本文法に加えて、`requests`、`BeautifulSoup`、`re`（正規
 - **正規表現**を用いて、`"news.yahoo.co.jp/articles"` を含むリンクのみを判別
 - `BeautifulSoup` の `get_text(strip=True)` を使って無駄な空白を除去し、記事タイトルをきれいに取得
 
+※上記の処理をまだ完全には理解できていないので、
+
 ---
 
 ## 実行方法
